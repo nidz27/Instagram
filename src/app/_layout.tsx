@@ -3,7 +3,7 @@
 
 import { Slot, Stack, Tabs } from "expo-router";
 
-
+import "../../global.css";
 
 // no matter where in the application u are always going to be inside rootlayout
 // global providers
